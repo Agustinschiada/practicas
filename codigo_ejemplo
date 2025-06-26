@@ -1,0 +1,6 @@
+While(1){
+    RD0=!RD0;
+    delay_ms(500);
+    RD1=!RD1;
+    delay_ms(500);
+}
